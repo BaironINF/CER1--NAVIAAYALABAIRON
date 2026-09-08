@@ -1,0 +1,28 @@
+.colores{
+    background: #C83737;
+    
+}
+
+.fix{
+
+    text-decoration: none;
+    color: #EAC102;
+}
+
+.fix:hover{
+    color: #008F4C;
+}
+
+.menu{
+    text-decoration: none;
+
+}
+.boton{
+
+    height: 36px;
+    margin-top: 0px;
+}
+button img{
+    width: 30px;
+    height: 30px;
+}

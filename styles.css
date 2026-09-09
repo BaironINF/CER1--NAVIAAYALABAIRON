@@ -26,3 +26,11 @@ button img{
     width: 30px;
     height: 30px;
 }
+.fondo{
+    background-color: #50DBD6;
+}
+.carousel-item img {
+    height: 450px;
+    object-fit: cover;
+}
+.Con{background:#EAC102;}
